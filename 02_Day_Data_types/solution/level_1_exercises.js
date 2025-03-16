@@ -24,7 +24,7 @@ challenge.substring(0, 2);
 challenge.includes('Script');
 
 // 9. Split the __string__ into an __array__ using __split()__ method
-challenge.split();
+challenge.split('');
 
 // 10. Split the string 30 Days Of JavaScript at the space using __split()__ method
 challenge.split(' ');
@@ -38,6 +38,7 @@ challenge.replace('JavaScript', 'Python');
 
 // 13. What is character at index 15 in '30 Days Of JavaScript' string? Use __charAt()__ method.
 challenge.charAt(15);
+// character at index 15 is 'S'
 
 // 14. What is the character code of J in '30 Days Of JavaScript' string using __charCodeAt()__
 challenge.charCodeAt('J');
@@ -72,10 +73,7 @@ challenge.endsWith('JavaScript');
 challenge.matchAll('a');
 
 // 24. Use __concat()__ and merge '30 Days of' and 'JavaScript' to a single string, '30 Days Of JavaScript'
-const firstPartOfTheSentence = '30 days of';
-const secondPartOfTheSentence = 'JavaScript';
-
-firstPartOfTheSentence.concat(secondPartOfTheSentence);
+'30 days of'.concat('JavaScript');
 
 // 25. Use __repeat()__ method to print 30 Days Of JavaScript 2 times
-challenge.repeat(2);
+console.log(challenge.repeat(2));
