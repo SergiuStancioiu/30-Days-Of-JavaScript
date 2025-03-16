@@ -2,38 +2,38 @@
 
 This is my take on the "30 days of JavaScript" challenge
 
-| # Day | Is Completed | My Solution                                                                                   | Topics                                                                                                                                             |
-| ----- | ------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01    | &#9745;      | [link](https://florianstancioiu.github.io/30-Days-Of-JavaScript/01_Day_Introduction/solution) | [Introduction](./readMe.md)                                                                                                                        |
-| 02    | &#9744;      |                                                                                               | [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                                                             |
-| 03    | &#9744;      |                                                                                               | [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                                                        |
-| 04    | &#9744;      |                                                                                               | [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                                                                       |
-| 05    | &#9744;      |                                                                                               | [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                                                                         |
-| 06    | &#9744;      |                                                                                               | [Loops](./06_Day_Loops/06_day_loops.md)                                                                                                            |
-| 07    | &#9744;      |                                                                                               | [Functions](./07_Day_Functions/07_day_functions.md)                                                                                                |
-| 08    | &#9744;      |                                                                                               | [Objects](./08_Day_Objects/08_day_objects.md)                                                                                                      |
-| 09    | &#9744;      |                                                                                               | [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                                                         |
-| 10    | &#9744;      |                                                                                               | [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                                                                    |
-| 11    | &#9744;      |                                                                                               | [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                                          |
-| 12    | &#9744;      |                                                                                               | [Regular Expressions](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                                                  |
-| 13    | &#9744;      |                                                                                               | [Console Object Methods](./13_Day_Console_object_methods/13_day_console_object_methods.md)                                                         |
-| 14    | &#9744;      |                                                                                               | [Error Handling](./14_Day_Error_handling/14_day_error_handling.md)                                                                                 |
-| 15    | &#9744;      |                                                                                               | [Classes](./15_Day_Classes/15_day_classes.md)                                                                                                      |
-| 16    | &#9744;      |                                                                                               | [JSON](./16_Day_JSON/16_day_json.md)                                                                                                               |
-| 17    | &#9744;      |                                                                                               | [Web Storages](./17_Day_Web_storages/17_day_web_storages.md)                                                                                       |
-| 18    | &#9744;      |                                                                                               | [Promises](./18_Day_Promises/18_day_promises.md)                                                                                                   |
-| 19    | &#9744;      |                                                                                               | [Closure](./19_Day_Closures/19_day_closures.md)                                                                                                    |
-| 20    | &#9744;      |                                                                                               | [Writing Clean Code](./20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                                                   |
-| 21    | &#9744;      |                                                                                               | [DOM](./21_Day_DOM/21_day_dom.md)                                                                                                                  |
-| 22    | &#9744;      |                                                                                               | [Manipulating DOM Object](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                                                      |
-| 23    | &#9744;      |                                                                                               | [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                                                              |
-| 24    | &#9744;      |                                                                                               | [Mini Project: Solar System](./24_Day_Project_solar_system/24_day_project_solar_system.md)                                                         |
-| 25    | &#9744;      |                                                                                               | [Mini Project: World Countries Data Visualization 1](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
-| 26    | &#9744;      |                                                                                               | [Mini Project: World Countries Data Visualization 2](./26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
-| 27    | &#9744;      |                                                                                               | [Mini Project: Portfolio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                                                        |
-| 28    | &#9744;      |                                                                                               | [Mini Project: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                                                  |
-| 29    | &#9744;      |                                                                                               | [Mini Project: Animating characters](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)                       |
-| 30    | &#9744;      |                                                                                               | [Final Projects](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                                                         |
+| # Day | Is Completed | My Solution                                                                                  | Topics                                                                                                                                             |
+| ----- | ------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01    | &#9745;      | [link](https://sergiustancioiu.github.io/30-Days-Of-JavaScript/01_Day_Introduction/solution) | [Introduction](./readMe.md)                                                                                                                        |
+| 02    | &#9744;      |                                                                                              | [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                                                             |
+| 03    | &#9744;      |                                                                                              | [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                                                        |
+| 04    | &#9744;      |                                                                                              | [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                                                                       |
+| 05    | &#9744;      |                                                                                              | [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                                                                         |
+| 06    | &#9744;      |                                                                                              | [Loops](./06_Day_Loops/06_day_loops.md)                                                                                                            |
+| 07    | &#9744;      |                                                                                              | [Functions](./07_Day_Functions/07_day_functions.md)                                                                                                |
+| 08    | &#9744;      |                                                                                              | [Objects](./08_Day_Objects/08_day_objects.md)                                                                                                      |
+| 09    | &#9744;      |                                                                                              | [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                                                         |
+| 10    | &#9744;      |                                                                                              | [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                                                                    |
+| 11    | &#9744;      |                                                                                              | [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                                          |
+| 12    | &#9744;      |                                                                                              | [Regular Expressions](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                                                  |
+| 13    | &#9744;      |                                                                                              | [Console Object Methods](./13_Day_Console_object_methods/13_day_console_object_methods.md)                                                         |
+| 14    | &#9744;      |                                                                                              | [Error Handling](./14_Day_Error_handling/14_day_error_handling.md)                                                                                 |
+| 15    | &#9744;      |                                                                                              | [Classes](./15_Day_Classes/15_day_classes.md)                                                                                                      |
+| 16    | &#9744;      |                                                                                              | [JSON](./16_Day_JSON/16_day_json.md)                                                                                                               |
+| 17    | &#9744;      |                                                                                              | [Web Storages](./17_Day_Web_storages/17_day_web_storages.md)                                                                                       |
+| 18    | &#9744;      |                                                                                              | [Promises](./18_Day_Promises/18_day_promises.md)                                                                                                   |
+| 19    | &#9744;      |                                                                                              | [Closure](./19_Day_Closures/19_day_closures.md)                                                                                                    |
+| 20    | &#9744;      |                                                                                              | [Writing Clean Code](./20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                                                   |
+| 21    | &#9744;      |                                                                                              | [DOM](./21_Day_DOM/21_day_dom.md)                                                                                                                  |
+| 22    | &#9744;      |                                                                                              | [Manipulating DOM Object](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                                                      |
+| 23    | &#9744;      |                                                                                              | [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                                                              |
+| 24    | &#9744;      |                                                                                              | [Mini Project: Solar System](./24_Day_Project_solar_system/24_day_project_solar_system.md)                                                         |
+| 25    | &#9744;      |                                                                                              | [Mini Project: World Countries Data Visualization 1](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
+| 26    | &#9744;      |                                                                                              | [Mini Project: World Countries Data Visualization 2](./26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
+| 27    | &#9744;      |                                                                                              | [Mini Project: Portfolio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                                                        |
+| 28    | &#9744;      |                                                                                              | [Mini Project: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                                                  |
+| 29    | &#9744;      |                                                                                              | [Mini Project: Animating characters](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)                       |
+| 30    | &#9744;      |                                                                                              | [Final Projects](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                                                         |
 
 [Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
 
@@ -175,7 +175,7 @@ Ctl+Shift+I
 To write our first JavaScript code, we used a built-in function **console.log()**. We passed an argument as input data, and the function displays the output. We passed `'Hello, World'` as input data or argument in the console.log() function.
 
 ```js
-console.log("Hello, World!");
+console.log('Hello, World!');
 ```
 
 ##### Console.log with Multiple Arguments
@@ -185,9 +185,9 @@ The **`console.log()`** function can take multiple parameters separated by comma
 ![console log multiple arguments](./images/console_log_multipl_arguments.png)
 
 ```js
-console.log("Hello", "World", "!");
-console.log("HAPPY", "NEW", "YEAR", 2020);
-console.log("Welcome", "to", 30, "Days", "Of", "JavaScript");
+console.log('Hello', 'World', '!');
+console.log('HAPPY', 'NEW', 'YEAR', 2020);
+console.log('Welcome', 'to', 30, 'Days', 'Of', 'JavaScript');
 ```
 
 As you can see from the snippet code above, _`console.log()`_ can take multiple arguments.
@@ -225,16 +225,16 @@ Programming languages are similar to human languages. English or many other lang
 I made a deliberate mistake. As a result, the console raises syntax errors. Actually, the syntax is very informative. It informs what type of mistake was made. By reading the error feedback guideline, we can correct the syntax and fix the problem. The process of identifying and removing errors from a program is called debugging. Let us fix the errors:
 
 ```js
-console.log("Hello, World!");
-console.log("Hello, World!");
+console.log('Hello, World!');
+console.log('Hello, World!');
 ```
 
 So far, we saw how to display text using the _`console.log()`_. If we are printing text or string using _`console.log()`_, the text has to be inside the single quotes, double quotes, or a backtick.
 **Example:**
 
 ```js
-console.log("Hello, World!");
-console.log("Hello, World!");
+console.log('Hello, World!');
+console.log('Hello, World!');
 console.log(`Hello, World!`);
 ```
 
@@ -325,7 +325,7 @@ First, let us write on the head part of the page.
   <head>
     <title>30DaysOfScript:Internal Script</title>
     <script>
-      console.log("Welcome to 30DaysOfJavaScript");
+      console.log('Welcome to 30DaysOfJavaScript');
     </script>
   </head>
   <body></body>
@@ -343,7 +343,7 @@ This is how we write an internal script most of the time. Writing the JavaScript
   <body>
     <button onclick="alert('Welcome to 30DaysOfJavaScript!');">Click Me</button>
     <script>
-      console.log("Welcome to 30DaysOfJavaScript");
+      console.log('Welcome to 30DaysOfJavaScript');
     </script>
   </body>
 </html>
@@ -359,7 +359,7 @@ Similar to the internal script, the external script link can be on the header or
 First, we should create an external JavaScript file with .js extension. All files ending with .js extension are JavaScript files. Create a file named introduction.js inside your project directory and write the following code and link this .js file at the bottom of the body.
 
 ```js
-console.log("Welcome to 30DaysOfJavaScript");
+console.log('Welcome to 30DaysOfJavaScript');
 ```
 
 External scripts in the _head_:
@@ -399,7 +399,7 @@ We can also link multiple external JavaScript files to a web page.
 Create a `helloworld.js` file inside the 30DaysOfJS folder and write the following code.
 
 ```js
-console.log("Hello, World!");
+console.log('Hello, World!');
 ```
 
 ```html
@@ -439,15 +439,15 @@ A collection of one or more characters between two single quotes, double quotes,
 **Example:**
 
 ```js
-"a";
-"Asabeneh";
-"Asabeneh";
-"Finland";
-"JavaScript is a beautiful programming language";
-"I love teaching";
-"I hope you are enjoying the first day"`We can also create a string using a backtick`;
-("A string could be just as small as one character or as big as many pages");
-("Any data type under a single quote, double quote or backtick is a string");
+'a';
+'Asabeneh';
+'Asabeneh';
+'Finland';
+'JavaScript is a beautiful programming language';
+'I love teaching';
+'I hope you are enjoying the first day'`We can also create a string using a backtick`;
+('A string could be just as small as one character or as big as many pages');
+('Any data type under a single quote, double quote or backtick is a string');
 ```
 
 ### Booleans
@@ -485,7 +485,7 @@ let emptyValue = null;
 To check the data type of a certain variable, we use the **typeof** operator. See the following example.
 
 ```js
-console.log(typeof "Asabeneh"); // string
+console.log(typeof 'Asabeneh'); // string
 console.log(typeof 5); // number
 console.log(typeof true); // boolean
 console.log(typeof null); // object type
@@ -577,10 +577,10 @@ The nameOfVriable is the name that stores different data of value. See below for
 
 ```js
 // Declaring different variables of different data types
-let firstName = "Asabeneh"; // first name of a person
-let lastName = "Yetayeh"; // last name of a person
-let country = "Finland"; // country
-let city = "Helsinki"; // capital city
+let firstName = 'Asabeneh'; // first name of a person
+let lastName = 'Yetayeh'; // last name of a person
+let country = 'Finland'; // country
+let city = 'Helsinki'; // capital city
 let age = 100; // age in years
 let isMarried = true;
 
@@ -606,9 +606,9 @@ console.log(gravity, boilingPoint, PI);
 
 ```js
 // Variables can also be declaring in one line separated by comma, however I recommend to use a seperate line to make code more readble
-let name = "Asabeneh",
-  job = "teacher",
-  live = "Finland";
+let name = 'Asabeneh',
+  job = 'teacher',
+  live = 'Finland';
 console.log(name, job, live);
 ```
 
