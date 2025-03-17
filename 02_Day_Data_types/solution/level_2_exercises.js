@@ -37,16 +37,17 @@ parseFloat(10) === 10; // true
 'I hope this course is not full of jargon'.includes('jargon'); //true
 
 // 7. Generate a random number between 0 and 100 inclusively.
-parseInt(Math.random() * 100);
+Math.floor(Math.random() * 101);
 
 // 8. Generate a random number between 50 and 100 inclusively.
-parseInt(Math.random() * (100 - 50)) + 50;
+Math.floor(Math.random() * 51) + 50;
 
 // 9. Generate a random number between 0 and 255 inclusively.
-parseInt(Math.random() * 255);
+Math.floor(Math.random() * 256);
 
 // 10. Access the  string characters using a random number.
-parseInt(Math.random() * 'JavaScript'.length);
+const randomNumber = Math.floor(Math.random() * 'JavaScript'.length);
+'JavaScript'[randomNumber];
 
 /*
 11. Use console.log() and escape characters to print the following pattern.
@@ -62,8 +63,6 @@ parseInt(Math.random() * 'JavaScript'.length);
 console.log('1 1 1 1\n2 1 2 4 8\n3 1 3 9 27\n4 1 4 16 64\n5 1 5 25 125');
 
 //12.  Use __substr__ to slice out the phrase __because because because__ from the following sentence:__'You cannot end a sentence with because because because is a conjunction'__
-//Note I will use
-
 'You cannot end a sentence with because because because is a conjunction'.substr(
   31,
   23
