@@ -2,27 +2,13 @@
 // 1. 'Love is the best thing in this world. Some found their love and some are still looking for their love.' Count the number of word __love__ in this sentence.
 const sentence =
   'Love is the best thing in this world. Some found their love and some are still looking for their love.';
-const mySentenceArr = sentence.toLowerCase().split(/\W+/);
-const nrLove = mySentenceArr.reduce((accumulator, word) => {
-  if (word === 'love') {
-    return ++accumulator;
-  }
-  return accumulator;
-}, 0);
+const pattern = /love/gi;
+const nrOfLove = sentence.match(pattern).length;
 
 // 2. Use __match()__ to count the number of all __because__ in the following sentence:__'You cannot end a sentence with because because because is a conjunction'__
 const sentence2 =
   'You cannot end a sentence with because because because is a conjunction';
-const sentence2Arr = sentence2.split(' ');
-const becauseArr = [];
-
-sentence2Arr.map((word) => {
-  if (word.match('because')) {
-    becauseArr.push(word);
-  }
-});
-
-becauseArr.length;
+const nrOfBecause = sentence2.match(/because/gi).length;
 
 /*
 3. Clean the following text and find the most frequent word (hint, use replace and regular expressions).
@@ -36,31 +22,7 @@ const sentence3 =
 
 let sentWSC = sentence3.replace(/[^\w\s]/gi, '');
 
-function commonWord() {
-  if (sentWSC.length === 0) {
-    return null;
-  }
-
-  sentWSC = sentWSC.toLowerCase();
-  let commonWordCount = 0;
-  let commonWord = [];
-  sentWSC = sentWSC.split(' ');
-  sentWSC.forEach((word) => {
-    let wordValue = sentWSC.filter((w) => w === word).length;
-
-    if (wordValue > commonWordCount) {
-      commonWordCount = wordValue;
-      commonWord.length = 0;
-      commonWord.push(word);
-    } else if (wordValue == commonWordCount) {
-      commonWord.push(word);
-    }
-  });
-
-  console.log(commonWord);
-}
-
-commonWord();
+console.log('sentWSC', sentWSC);
 
 // 4. Calculate the total annual income of the person by extracting the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 const sentence4 =
